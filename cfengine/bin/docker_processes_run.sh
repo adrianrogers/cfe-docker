@@ -16,4 +16,4 @@ do
 done
 
 /var/cfengine/bin/cf-agent
-/var/cfengine/bin/cf-execd
+/var/cfengine/bin/cf-execd -F -v -d
